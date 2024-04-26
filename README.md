@@ -44,7 +44,7 @@ Kernel level access for anticheat purposes:
 
 ![Vanguard](/Assets/vanguard.jpg)
 
-![Easy](easy.jpg)
+![Easy](/Assets/easy.jpg)
 
 #### Faceit - ESL - Saudi Arabia
 
