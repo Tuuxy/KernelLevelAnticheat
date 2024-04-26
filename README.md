@@ -38,6 +38,22 @@ Kernel level access for anticheat purposes:
 - Detection of unauthorized modifications, game files, code injection, ...
 - Faster detection and and response to cheating behaviors
 
+### Is it really a problem ? 
+
+You don't need kernel access to steal data. Usually companies are not the problem, they use their anticheat in good faith.
+
+![ESEA](/Assets/esea.png)
+
+An ESEA employee was caught mining bitcoin on their customers' machines.
+
+https://www.theverge.com/2013/5/2/4292672/esea-gaming-network-bitcoin-botnet
+
+![Street Fighter 5](/Assets/street-fighter.png)
+
+A Street Fighter 5 update installed an hidden rootkit that allowed any software to access the kernel.
+
+https://www.theregister.com/2016/09/23/capcom_street_fighter_v/
+
 ### Who are those anti-cheat companies ?
 
 #### Vanguard - Tencent - Chinese
@@ -57,23 +73,6 @@ Kernel level access for anticheat purposes:
 ![Putin](/Assets/putin.png)
 
 https://kotaku.com/putin-russia-consoles-playstation-xbox-1851388516
-
-### Is it really a problem ? 
-
-You don't need kernel access to steal data. Usually companies are not the problem, they use their anticheat in good faith.
-
-![ESEA](/Assets/esea.png)
-
-An ESEA employee was caught mining bitcoin on their customers' machines.
-
-https://www.theverge.com/2013/5/2/4292672/esea-gaming-network-bitcoin-botnet
-
-![Street Fighter 5](/Assets/street-fighter.png)
-
-A Street Fighter 5 update installed an hidden rootkit that allowed any software to access the kernel.
-
-https://www.theregister.com/2016/09/23/capcom_street_fighter_v/
-
 ### Are you okay with this ? 
 
 Even with no ill intent, are you okay with companies potentially having such a deep access to your machine ? 
