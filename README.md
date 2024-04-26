@@ -95,7 +95,7 @@ Most anti-cheats software even run when you are not playing your games.
 
 ![Anybrain](/Assets/anybrain.png)
 
-![Valve](valve.jpg)
+![Valve](/Assets/valve.jpg)
 
 ## Cool references 
 
